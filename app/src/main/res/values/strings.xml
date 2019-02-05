@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="demo_name">John Doe</string>
+    <string name="demo_number">01XXXXXXXXXXXX</string>
+    <string name="demo_age">56</string>
+    <string name="i_am_details_activity">I am details activity</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.DetailsActivity"
+    android:orientation="vertical"
+    android:gravity="center_vertical|center_horizontal">
+
+
+    <android.support.v7.widget.AppCompatTextView
+
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="John Doe"
+        android:textSize="20sp"/>
+
+
+    <android.support.v7.widget.AppCompatTextView
+
+        android:id="@+id/tvMobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="017xxxxxxxx"
+        android:textSize="20sp"/>
+
+
+    <android.support.v7.widget.AppCompatTextView
+
+        android:id="@+id/tvAge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="56"
+        android:textSize="20sp"/>
+
+
+
+
+
+</android.support.v7.widget.LinearLayoutCompat>
